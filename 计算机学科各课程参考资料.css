@@ -1,0 +1,24 @@
+.box1{
+    float: right;
+    width: 33.3%;
+}
+body{
+    width:100%;
+    height:100%;
+
+    background-image: url(../images/创新港3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.box2{
+    float:right;
+    width:33.3%;
+}
+a {
+    text-decoration: none;
+    color:deepskyblue
+}
+a:hover{
+    color: gold;
+}
